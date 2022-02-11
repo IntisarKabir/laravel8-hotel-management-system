@@ -1,1 +1,285 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#1 overview
+
+
+#2 install laravel
+
+
+
+#3 home page show
+
+
+
+#4 deshbord layout
+
+
+
+
+#5 model create and relationship
+
+
+
+
+
+
+
+
+
+
+
+#6 roomtype controller and view
+
+
+
+
+
+
+
+
+
+
+#7 roomtype layout set
+
+
+
+
+
+
+#8 roomtype data show
+
+
+#9 roomtype data edit
+
+#10 sidebar layout
+
+#11 room layout
+
+
+
+#12 customer model migration
+
+
+#13 customer data insert
+
+
+#14 custome data edit,delete,show
+
+
+#15 room type filed updated
+
+
+#16 admin login
+
+
+#17 admin login logout session
+
+
+#18 remember me
+
+
+#19 multiple image upload
+
+
+
+#20 edit image
+
+
+#21 image show in roomtype
+
+
+#22 department
+
+
+#23 staff
+
+
+#24 staffPayment
+
+
+#25 staffPayment Delete
+
+
+
+#26 Booking with relation
+
+
+#27 booking add
+
+
+#28 deshbord count
+
+
+#29 menu collups solve
+
+
+#30 dashboard chart
+
+
+#31 home page layout
+
+
+
+#32 gallery image show (using lightbox jq plugin)
+
+
+
+#32 fontend register
+
+
+
+#34 fontend login register
+
+
+
+#35 booking in fontend
+
+
+
+
+#36 service model and controller
+
+
+
+ #37 Service Crud
+
+
+
+#38 service fontend
+
+
+
+#39 service Details
+
+
+#40 frontend testimonial add
+
+
+
+
+#41 backend testimonial
+
+
+
+#42 homepage show testimonial
+
+
+
+#43 about us page
+
+
+
+ #44 contact us page
+
+
+
+
+#45 banner create
+
+
+
+
+
+#46 banner update delete
+
+
+
+
+#47 banner show fontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
